@@ -1,0 +1,6 @@
+{
+  "name": "College Samosa Ordering & Sales Management",
+  "description": "Mobile-first ordering, inventory tracking, guest order tracking, and seller sales management for college samosa business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
